@@ -5,11 +5,6 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Egg6 {
-    private Deth8 deth8;
-    @Autowired
-    public Egg6(Deth8 deth8) {
-        this.deth8 = deth8;
-    }
 
     private Deth8 deth8;
 
